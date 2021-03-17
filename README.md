@@ -11,7 +11,7 @@ Plotting linear regression residuals for both single linear model and null model
 geom_hline(yintercept=mean(d$log.body),color = "blue")+theme_bw()`
 
 <figure>
-  <img src="fitted versus null model residuals.png" alt="Trulli" style="width:100%">
+  <img src="figure1.png" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - Regression segments of fitted brain size values of mammals explained by weight compared to the null model</figcaption>
 </figure>
 
