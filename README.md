@@ -17,18 +17,3 @@ geom_hline(yintercept=mean(d$log.body),color = "blue")+theme_bw()
   <img src="figure1.png" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - Regression segments of fitted brain size values of mammals explained by weight compared to the null model</figcaption>
 </figure>
-
-<figure>
-  <img src="elephant.gif" alt="Trulli" style="width:5%" class="center">
-  <figcaption>https://www.popsci.com/what-does-brain-size-have-to-do-with-intelligence/</figcaption>
-</figure>
-
-<style>
-       .aligncenter {
-    text-align: center;
-}
-<p class="aligncenter">
-    <img src="elephant.gif" alt="centered image" />
-</p>
-</style>
-
