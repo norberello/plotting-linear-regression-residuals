@@ -6,6 +6,6 @@ Plotting linear regression residuals for both single linear model and null model
 </figure>
 
 <figure>
-  <img src="brainbody.png" alt="Trulli" style="width:25%">
-  <figcaption>Fhttps://www.popsci.com/what-does-brain-size-have-to-do-with-intelligence/</figcaption>
+  <img src="brainbody.jpg" alt="Trulli" style="width:25%">
+  <figcaption>https://www.popsci.com/what-does-brain-size-have-to-do-with-intelligence/</figcaption>
 </figure>
