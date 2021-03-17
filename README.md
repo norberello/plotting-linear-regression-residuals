@@ -27,4 +27,9 @@ geom_hline(yintercept=mean(d$log.body),color = "blue")+theme_bw()
     <img src="elephant.gif" alt="centered image" />
 </p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
