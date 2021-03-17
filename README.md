@@ -6,6 +6,6 @@ Plotting linear regression residuals for both single linear model and null model
 </figure>
 
 <figure>
-  <img src="brainbody.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Regression segments of fitted brain size values of mammals explained by weight compared to the null model</figcaption>
+  <img src="brainbody.png" alt="Trulli" style="width:25%">
+  <figcaption>Fhttps://www.popsci.com/what-does-brain-size-have-to-do-with-intelligence/</figcaption>
 </figure>
