@@ -23,13 +23,12 @@ geom_hline(yintercept=mean(d$log.body),color = "blue")+theme_bw()
   <figcaption>https://www.popsci.com/what-does-brain-size-have-to-do-with-intelligence/</figcaption>
 </figure>
 
+<style>
+       .aligncenter {
+    text-align: center;
+}
 <p class="aligncenter">
     <img src="elephant.gif" alt="centered image" />
 </p>
-
-<style>
-.aligncenter {
-    text-align: center;
-}
 </style>
 
