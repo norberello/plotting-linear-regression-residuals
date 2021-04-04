@@ -2,7 +2,7 @@
 Plotting linear regression residuals for both single linear model and null model.
 
 <figure>
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fneoformix.com%2F2006%2FBrainBodyRatio.png&f=1&nofb=1" alt="Trulli" style="width:100%">
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fneoformix.com%2F2006%2FBrainBodyRatio.png&f=1&nofb=1" alt="Trulli" style="width:300%">
   <figcaption>Fig.1 - Brain and body size relation in mammals</figcaption>
 </figure>
 
